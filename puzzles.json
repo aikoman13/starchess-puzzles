@@ -22,6 +22,17 @@
       "updatedAt": "2026-10-18T05:01:22.249Z",
       "reviewedByAdmin": true,
       "engineVerified": false
+    },
+    {
+      "id": "p20261018050731-0e5ucv",
+      "title": "Screenshot 2026-10-18 010651 Puzzle",
+      "turn": "black",
+      "goal": "2",
+      "path": "puzzles/p20261018050731-0e5ucv.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-18T05:09:49.212Z",
+      "reviewedByAdmin": true,
+      "engineVerified": false
     }
   ]
 }
