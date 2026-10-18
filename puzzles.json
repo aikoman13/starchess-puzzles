@@ -11,6 +11,17 @@
       "updatedAt": "2026-10-18T04:40:35.332Z",
       "reviewedByAdmin": true,
       "engineVerified": false
+    },
+    {
+      "id": "p20261018045920-6as30e",
+      "title": "SKokt02 Puzzle",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261018045920-6as30e.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-18T05:01:22.249Z",
+      "reviewedByAdmin": true,
+      "engineVerified": false
     }
   ]
 }
