@@ -281,6 +281,40 @@
         "verifiedAt": "2026-10-18T23:04:59.165Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261018230531-nn92wr",
+      "title": "101126",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261018230531-nn92wr.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-18T23:06:18.806Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 28,
+            "to": 12,
+            "promotion": null
+          },
+          {
+            "from": 5,
+            "to": 12,
+            "promotion": null
+          },
+          {
+            "from": 19,
+            "to": 16,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-18T23:06:10.835Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
