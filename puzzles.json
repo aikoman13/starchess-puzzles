@@ -33,6 +33,17 @@
       "updatedAt": "2026-10-18T05:09:49.212Z",
       "reviewedByAdmin": true,
       "engineVerified": false
+    },
+    {
+      "id": "p20261018194659-qbk7ce",
+      "title": "Puzzle_092026",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261018194659-qbk7ce.starpuzzle",
+      "sourceUrl": "https://www.instagram.com/p/DdhgxLLiaMN/?utm_source=ig_web_copy_link&exln=NTc4MTIwNjQ2YQ==",
+      "updatedAt": "2026-10-18T19:52:04.423Z",
+      "reviewedByAdmin": true,
+      "engineVerified": false
     }
   ]
 }
