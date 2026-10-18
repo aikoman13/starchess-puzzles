@@ -38,12 +38,45 @@
       "id": "p20261018194659-qbk7ce",
       "title": "Puzzle_092026",
       "turn": "white",
-      "goal": "2",
+      "goal": "3",
       "path": "puzzles/p20261018194659-qbk7ce.starpuzzle",
       "sourceUrl": "https://www.instagram.com/p/DdhgxLLiaMN/?utm_source=ig_web_copy_link&exln=NTc4MTIwNjQ2YQ==",
-      "updatedAt": "2026-10-18T19:52:04.423Z",
+      "updatedAt": "2026-10-18T21:16:40.076Z",
       "reviewedByAdmin": true,
-      "engineVerified": false
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 3,
+        "exampleLine": [
+          {
+            "from": 36,
+            "to": 31,
+            "promotion": null
+          },
+          {
+            "from": 11,
+            "to": 15,
+            "promotion": null
+          },
+          {
+            "from": 21,
+            "to": 15,
+            "promotion": null
+          },
+          {
+            "from": 9,
+            "to": 10,
+            "promotion": null
+          },
+          {
+            "from": 15,
+            "to": 21,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-18T21:16:30.646Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
