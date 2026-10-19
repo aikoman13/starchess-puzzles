@@ -553,6 +553,40 @@
         "verifiedAt": "2026-10-18T23:50:34.798Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261019161402-r3229k",
+      "title": "My StarChess puzzle",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261019161402-r3229k.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-19T16:15:21.433Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 11,
+            "to": 23,
+            "promotion": null
+          },
+          {
+            "from": 22,
+            "to": 23,
+            "promotion": null
+          },
+          {
+            "from": 30,
+            "to": 13,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-19T16:15:09.494Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
