@@ -995,6 +995,50 @@
         "verifiedAt": "2026-10-19T17:15:05.263Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261019171800-kfi9km",
+      "title": "AI Generated · Mate in 3",
+      "turn": "white",
+      "goal": "3",
+      "path": "puzzles/p20261019171800-kfi9km.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-19T17:18:25.794Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 3,
+        "exampleLine": [
+          {
+            "from": 18,
+            "to": 31,
+            "promotion": null
+          },
+          {
+            "from": 28,
+            "to": 22,
+            "promotion": null
+          },
+          {
+            "from": 10,
+            "to": 20,
+            "promotion": null
+          },
+          {
+            "from": 22,
+            "to": 17,
+            "promotion": null
+          },
+          {
+            "from": 31,
+            "to": 12,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-19T17:18:15.589Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
