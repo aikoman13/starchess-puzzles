@@ -791,6 +791,40 @@
         "verifiedAt": "2026-10-19T16:28:57.103Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261019164819-f5brov",
+      "title": "092526",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261019164819-f5brov.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-19T16:49:55.282Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 36,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 17,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 12,
+            "to": 13,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-19T16:49:49.783Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
