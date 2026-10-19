@@ -556,12 +556,12 @@
     },
     {
       "id": "p20261019161402-r3229k",
-      "title": "My StarChess puzzle",
+      "title": "101926",
       "turn": "white",
       "goal": "2",
       "path": "puzzles/p20261019161402-r3229k.starpuzzle",
       "sourceUrl": "",
-      "updatedAt": "2026-10-19T16:15:21.433Z",
+      "updatedAt": "2026-10-19T16:17:32.122Z",
       "reviewedByAdmin": true,
       "engineVerified": true,
       "verification": {
@@ -584,7 +584,7 @@
             "promotion": null
           }
         ],
-        "verifiedAt": "2026-10-19T16:15:09.494Z",
+        "verifiedAt": "2026-10-19T16:17:26.108Z",
         "engine": "StarChess exhaustive search v1"
       }
     }
