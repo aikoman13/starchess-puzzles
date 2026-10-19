@@ -961,6 +961,40 @@
         "verifiedAt": "2026-10-19T17:13:36.013Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261019171412-7feih1",
+      "title": "061926",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261019171412-7feih1.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-19T17:15:10.218Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 29,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 12,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 22,
+            "to": 19,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-19T17:15:05.263Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
