@@ -1,0 +1,14 @@
+POLGAR-STARCHESS-PUZZLE/1
+TITLE:My%20StarChess%20puzzle
+TURN:white
+GOAL:2
+PIECE:5:white:K
+PIECE:9:black:K
+PIECE:11:white:Q
+PIECE:12:white:P
+PIECE:21:white:B
+PIECE:22:black:R
+PIECE:26:white:P
+PIECE:29:black:B
+PIECE:30:white:N
+END
