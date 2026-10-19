@@ -1073,6 +1073,40 @@
         "verifiedAt": "2026-10-19T17:27:50.256Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261019172904-lzuemk",
+      "title": "101926-5",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261019172904-lzuemk.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-19T17:29:43.298Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 26,
+            "to": 23,
+            "promotion": null
+          },
+          {
+            "from": 4,
+            "to": 5,
+            "promotion": null
+          },
+          {
+            "from": 12,
+            "to": 3,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-19T17:29:19.731Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
