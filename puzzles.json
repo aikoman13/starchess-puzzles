@@ -1287,6 +1287,40 @@
         "verifiedAt": "2026-10-20T12:34:15.922Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261020123442-3pmllc",
+      "title": "091426",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261020123442-3pmllc.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-20T12:35:45.792Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 15,
+            "to": 12,
+            "promotion": null
+          },
+          {
+            "from": 5,
+            "to": 12,
+            "promotion": null
+          },
+          {
+            "from": 3,
+            "to": 13,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-20T12:35:38.926Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
