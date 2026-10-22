@@ -1627,6 +1627,40 @@
         "verifiedAt": "2026-10-20T13:22:19.806Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261022102441-mzavkf",
+      "title": "AI Generated · Mate in 2",
+      "turn": "black",
+      "goal": "2",
+      "path": "puzzles/p20261022102441-mzavkf.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-22T10:24:54.302Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 17,
+            "to": 21,
+            "promotion": null
+          },
+          {
+            "from": 10,
+            "to": 9,
+            "promotion": null
+          },
+          {
+            "from": 33,
+            "to": 20,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-22T10:24:41.305Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
