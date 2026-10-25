@@ -1763,6 +1763,40 @@
         "verifiedAt": "2026-10-25T02:03:03.794Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261025020322-uxdicd",
+      "title": "102226",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261025020322-uxdicd.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-25T02:04:13.275Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 13,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 17,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 3,
+            "to": 13,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-25T02:04:08.245Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
