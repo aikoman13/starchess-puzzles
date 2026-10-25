@@ -1865,6 +1865,50 @@
         "verifiedAt": "2026-10-25T02:06:08.962Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261025020635-ajikoc",
+      "title": "102426-1",
+      "turn": "white",
+      "goal": "3",
+      "path": "puzzles/p20261025020635-ajikoc.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-25T02:07:03.341Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 3,
+        "exampleLine": [
+          {
+            "from": 22,
+            "to": 2,
+            "promotion": null
+          },
+          {
+            "from": 30,
+            "to": 31,
+            "promotion": null
+          },
+          {
+            "from": 21,
+            "to": 7,
+            "promotion": null
+          },
+          {
+            "from": 31,
+            "to": 32,
+            "promotion": null
+          },
+          {
+            "from": 7,
+            "to": 25,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-25T02:06:51.832Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
