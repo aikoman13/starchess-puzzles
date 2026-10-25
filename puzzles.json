@@ -1977,6 +1977,40 @@
         "verifiedAt": "2026-10-25T02:08:07.547Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261025021131-7z12l7",
+      "title": "102426-4",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261025021131-7z12l7.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-25T02:11:46.606Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 19,
+            "to": 14,
+            "promotion": null
+          },
+          {
+            "from": 2,
+            "to": 6,
+            "promotion": null
+          },
+          {
+            "from": 3,
+            "to": 1,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-25T02:11:40.282Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
