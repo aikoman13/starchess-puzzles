@@ -1,0 +1,17 @@
+POLGAR-STARCHESS-PUZZLE/1
+TITLE:AI%20Generated%20%C2%B7%20Mate%20in%203
+TURN:white
+GOAL:3
+PIECE:11:white:Q
+PIECE:12:white:P
+PIECE:15:black:P
+PIECE:20:white:P
+PIECE:25:black:P
+PIECE:26:white:K
+PIECE:28:black:K
+PIECE:33:white:P
+PIECE:34:white:B
+PIECE:35:black:P
+PIECE:36:black:P
+PIECE:37:black:P
+END
