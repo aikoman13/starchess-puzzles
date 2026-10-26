@@ -2055,6 +2055,40 @@
         "verifiedAt": "2026-10-26T02:15:46.352Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261026021607-sq92r2",
+      "title": "102526-1",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261026021607-sq92r2.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-26T02:16:39.064Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 13,
+            "to": 22,
+            "promotion": null
+          },
+          {
+            "from": 21,
+            "to": 20,
+            "promotion": null
+          },
+          {
+            "from": 9,
+            "to": 10,
+            "promotion": "Q"
+          }
+        ],
+        "verifiedAt": "2026-10-26T02:16:34.986Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
