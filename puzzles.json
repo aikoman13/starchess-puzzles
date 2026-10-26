@@ -2011,6 +2011,50 @@
         "verifiedAt": "2026-10-25T02:11:40.282Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261026021538-pzg329",
+      "title": "AI Generated · Mate in 3",
+      "turn": "white",
+      "goal": "3",
+      "path": "puzzles/p20261026021538-pzg329.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-26T02:15:58.025Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 3,
+        "exampleLine": [
+          {
+            "from": 11,
+            "to": 17,
+            "promotion": null
+          },
+          {
+            "from": 28,
+            "to": 29,
+            "promotion": null
+          },
+          {
+            "from": 34,
+            "to": 15,
+            "promotion": null
+          },
+          {
+            "from": 25,
+            "to": 24,
+            "promotion": null
+          },
+          {
+            "from": 33,
+            "to": 34,
+            "promotion": "Q"
+          }
+        ],
+        "verifiedAt": "2026-10-26T02:15:46.352Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
