@@ -2259,6 +2259,40 @@
         "verifiedAt": "2026-10-30T17:32:28.843Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261030173241-dsysom",
+      "title": "102726",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261030173241-dsysom.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-30T17:33:50.749Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 1,
+            "to": 14,
+            "promotion": null
+          },
+          {
+            "from": 7,
+            "to": 14,
+            "promotion": null
+          },
+          {
+            "from": 5,
+            "to": 12,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-30T17:33:44.734Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
