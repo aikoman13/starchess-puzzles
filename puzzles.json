@@ -2531,6 +2531,40 @@
         "verifiedAt": "2026-10-30T17:41:25.855Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261030174138-sekyo4",
+      "title": "103026-3",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261030174138-sekyo4.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-30T17:41:53.565Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 20,
+            "to": 21,
+            "promotion": "Q"
+          },
+          {
+            "from": 34,
+            "to": 33,
+            "promotion": null
+          },
+          {
+            "from": 9,
+            "to": 20,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-30T17:41:48.959Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
