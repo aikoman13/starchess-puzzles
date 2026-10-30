@@ -2327,6 +2327,40 @@
         "verifiedAt": "2026-10-30T17:35:11.748Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261030173525-0evwzv",
+      "title": "102426",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261030173525-0evwzv.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-30T17:36:00.157Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 19,
+            "to": 25,
+            "promotion": null
+          },
+          {
+            "from": 9,
+            "to": 16,
+            "promotion": null
+          },
+          {
+            "from": 33,
+            "to": 35,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-10-30T17:35:55.994Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
