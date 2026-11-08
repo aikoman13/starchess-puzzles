@@ -3041,6 +3041,40 @@
         "verifiedAt": "2026-11-08T04:13:13.475Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261108041330-tukif1",
+      "title": "100726-5",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261108041330-tukif1.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-08T04:13:49.147Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 30,
+            "to": 20,
+            "promotion": null
+          },
+          {
+            "from": 3,
+            "to": 2,
+            "promotion": null
+          },
+          {
+            "from": 5,
+            "to": 12,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-08T04:13:39.444Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
