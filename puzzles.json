@@ -2769,6 +2769,40 @@
         "verifiedAt": "2026-11-08T04:07:03.571Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261108040730-dfygre",
+      "title": "clipboard-1794110850160 Puzzle",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261108040730-dfygre.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-08T04:08:06.442Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 6,
+            "to": 32,
+            "promotion": null
+          },
+          {
+            "from": 14,
+            "to": 13,
+            "promotion": null
+          },
+          {
+            "from": 10,
+            "to": 16,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-08T04:08:01.079Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
