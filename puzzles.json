@@ -2973,6 +2973,40 @@
         "verifiedAt": "2026-11-08T04:12:06.308Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261108041220-cmx909",
+      "title": "110726-3",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261108041220-cmx909.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-08T04:12:40.073Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 3,
+            "to": 8,
+            "promotion": null
+          },
+          {
+            "from": 12,
+            "to": 11,
+            "promotion": "Q"
+          },
+          {
+            "from": 20,
+            "to": 3,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-08T04:12:34.815Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
