@@ -2905,6 +2905,40 @@
         "verifiedAt": "2026-11-08T04:10:56.369Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261108041126-3ptc72",
+      "title": "110726-1",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261108041126-3ptc72.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-08T04:11:45.647Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 33,
+            "to": 14,
+            "promotion": null
+          },
+          {
+            "from": 6,
+            "to": 5,
+            "promotion": null
+          },
+          {
+            "from": 29,
+            "to": 3,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-08T04:11:40.434Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
