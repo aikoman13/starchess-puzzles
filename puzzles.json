@@ -2803,6 +2803,40 @@
         "verifiedAt": "2026-11-08T04:08:01.079Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261108040823-g8fs4f",
+      "title": "clipboard-1794110903841 Puzzle",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261108040823-g8fs4f.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-08T04:08:53.595Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 32,
+            "to": 6,
+            "promotion": null
+          },
+          {
+            "from": 5,
+            "to": 6,
+            "promotion": null
+          },
+          {
+            "from": 14,
+            "to": 1,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-08T04:08:49.167Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
