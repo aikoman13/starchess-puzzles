@@ -2633,6 +2633,40 @@
         "verifiedAt": "2026-10-30T17:42:44.007Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261108034635-gjtseu",
+      "title": "1031226",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261108034635-gjtseu.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-08T03:47:46.595Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 18,
+            "to": 32,
+            "promotion": null
+          },
+          {
+            "from": 33,
+            "to": 32,
+            "promotion": null
+          },
+          {
+            "from": 16,
+            "to": 15,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-08T03:47:40.040Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
