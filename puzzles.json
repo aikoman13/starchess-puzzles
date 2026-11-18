@@ -3415,6 +3415,40 @@
         "verifiedAt": "2026-11-18T12:20:37.745Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261118122136-2j2moc",
+      "title": "111026",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261118122136-2j2moc.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-18T12:22:06.456Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 3,
+            "to": 23,
+            "promotion": null
+          },
+          {
+            "from": 4,
+            "to": 11,
+            "promotion": null
+          },
+          {
+            "from": 29,
+            "to": 30,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-18T12:22:02.421Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
