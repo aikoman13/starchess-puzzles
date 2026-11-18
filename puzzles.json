@@ -3109,6 +3109,40 @@
         "verifiedAt": "2026-11-18T12:00:47.879Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261118121111-uyl2xs",
+      "title": "103126",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261118121111-uyl2xs.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-18T12:12:18.233Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 18,
+            "to": 32,
+            "promotion": null
+          },
+          {
+            "from": 33,
+            "to": 32,
+            "promotion": null
+          },
+          {
+            "from": 16,
+            "to": 15,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-18T12:12:13.307Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
