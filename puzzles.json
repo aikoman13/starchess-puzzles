@@ -3585,6 +3585,40 @@
         "verifiedAt": "2026-11-18T12:25:04.442Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261118122546-iik1w7",
+      "title": "111626",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261118122546-iik1w7.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-18T12:26:13.625Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 8,
+            "to": 19,
+            "promotion": null
+          },
+          {
+            "from": 17,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 5,
+            "to": 6,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-18T12:26:09.346Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
