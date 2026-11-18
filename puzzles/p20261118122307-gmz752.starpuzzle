@@ -1,0 +1,16 @@
+POLGAR-STARCHESS-PUZZLE/1
+TITLE:111226
+TURN:white
+GOAL:2
+PIECE:1:white:Q
+PIECE:3:black:P
+PIECE:5:black:B
+PIECE:8:white:P
+PIECE:10:white:K
+PIECE:11:black:R
+PIECE:14:white:P
+PIECE:17:white:R
+PIECE:18:black:P
+PIECE:21:black:K
+PIECE:33:white:B
+END
