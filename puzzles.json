@@ -3075,6 +3075,40 @@
         "verifiedAt": "2026-11-08T04:13:39.444Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261118115925-llqx6n",
+      "title": "111826-1",
+      "turn": "black",
+      "goal": "2",
+      "path": "puzzles/p20261118115925-llqx6n.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-18T12:01:02.280Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 27,
+            "to": 19,
+            "promotion": null
+          },
+          {
+            "from": 3,
+            "to": 1,
+            "promotion": null
+          },
+          {
+            "from": 14,
+            "to": 8,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-18T12:00:47.879Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
