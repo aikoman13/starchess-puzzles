@@ -3381,6 +3381,40 @@
         "verifiedAt": "2026-11-18T12:19:50.603Z",
         "engine": "StarChess exhaustive search v1"
       }
+    },
+    {
+      "id": "p20261118122013-i5fs3g",
+      "title": "110826",
+      "turn": "white",
+      "goal": "2",
+      "path": "puzzles/p20261118122013-i5fs3g.starpuzzle",
+      "sourceUrl": "",
+      "updatedAt": "2026-11-18T12:20:42.304Z",
+      "reviewedByAdmin": true,
+      "engineVerified": true,
+      "verification": {
+        "type": "forced-mate",
+        "mateIn": 2,
+        "exampleLine": [
+          {
+            "from": 21,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 13,
+            "to": 18,
+            "promotion": null
+          },
+          {
+            "from": 2,
+            "to": 20,
+            "promotion": null
+          }
+        ],
+        "verifiedAt": "2026-11-18T12:20:37.745Z",
+        "engine": "StarChess exhaustive search v1"
+      }
     }
   ]
 }
